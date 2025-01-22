@@ -1,0 +1,17 @@
+BACKEND
+1. pip install -r requirements.txt
+2. python application.py
+
+For DB connection, open xamp and start mySQL
+
+FRONTEND
+in xamp folder, navigate to htdocs. Remove all files inside htdocs folder and add the frontend folders to this.
+in browser, enter localhost/
+Click on respective folders to navigate to login portals.
+
+Deployed on AWS
+public ip: 3.129.95.65
+urls: http://3.129.95.65/driver/login.html
+      http://3.129.95.65/user/login.html
+      http://3.129.95.65/admin/login.html
+
